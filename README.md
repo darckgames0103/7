@@ -163,7 +163,7 @@ dupepop.TextScaled = true
 dupepop.TextSize = 14.000
 dupepop.TextWrapped = true
 dupepop.MouseButton1Down:connect(function()
-	local args = {
+		local args = {
 		[1] = "Pop it Rainbow"
 	}
 
