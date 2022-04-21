@@ -1,6 +1,4 @@
-# 7
-0
-a-- by shadow
+-- by shadow
 
 local ScreenGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
